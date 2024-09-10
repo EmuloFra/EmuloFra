@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+###
+
+<img src="https://raw.githubusercontent.com/EmuloFra/EmuloFra/output/snake.svg" alt="Snake animation" />
+
+###
