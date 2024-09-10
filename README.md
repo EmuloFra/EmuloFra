@@ -34,10 +34,10 @@ Feel free to explore and contribute!
 
 **Cybersecurity Specialist:**
 
-![Epicode](https://img.shields.io/badge/OperatingSystems-Windows/Linux-informational?style=flat&logo=epicode&logoColor=white&color=6aa6f8)
+![Epicode](https://img.shields.io/badge/OperatingSystems-Windows/Linux-informational?style=flat&logo=kalilinux&logoColor=white&color=6aa6f8)
 ![Epicode](https://img.shields.io/badge/VulnerabilityAssessment-PenetrationTesting-informational?style=flat&logo=epicode&logoColor=white&color=6aa6f8)
-![Epicode](https://img.shields.io/badge/Networking-NetworkConfiguration-informational?style=flat&logo=epicode&logoColor=white&color=6aa6f8)
-
+![Epicode](https://img.shields.io/badge/Networking-NetworkConfiguration-informational?style=flat&logo=enpass&logoColor=white&color=6aa6f8)
+![Blockchain](https://img.shields.io/badge/Blockchain-Bitcoin-informational?style=flat&logo=bitcoin&logoColor=white&color=6aa6f8)
 
 **Red Team:**
 
@@ -47,7 +47,7 @@ Feel free to explore and contribute!
 ![eccouncil](https://img.shields.io/badge/Human-SocialEngineering-informational?style=flat&logo=ecocouncil&logoColor=white&color=6aa6f8)
 ![TryHackMe](https://img.shields.io/badge/WebFundamentals-BurpSuite-informational?style=flat&logo=tryhackme&logoColor=white&color=6aa6f8)
 ![TryHackMe](https://img.shields.io/badge/Jr.Pentester-Metasploit-informational?style=flat&logo=tryhackme&logoColor=white&color=6aa6f8)
-![Coding](https://img.shields.io/badge/Scripting-Powershell&Bash-informational?style=flat&logo=bash&logoColor=white&color=6aa6f8)
+![Coding](https://img.shields.io/badge/Scripting-Powershell&Bash-informational?style=flat&logo=gnubash&logoColor=white&color=6aa6f8)
 ![TryHackMe](https://img.shields.io/badge/WebFundamentals-SQLi-informational?style=flat&logo=tryhackme&logoColor=white&color=6aa6f8)
 ![TryHackMe](https://img.shields.io/badge/WebFundamentals-XSS-informational?style=flat&logo=tryhackme&logoColor=white&color=6aa6f8)
 ![TryHackMe](https://img.shields.io/badge/Jr.Pentester-PrivilegeEscalation-informational?style=flat&logo=tryhackme&logoColor=white&color=6aa6f8)
