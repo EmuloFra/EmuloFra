@@ -17,9 +17,10 @@ which you find below.
 Feel free to explore and contribute!
 </pre>
 <br><br>
+<img src="https://github.com/EmuloFra/EmuloFra/blob/main/pika.gif" height="80" />
 <img src="https://github.com/EmuloFra/EmuloFra/blob/main/kyubey.gif" height="70" />
 <img src="https://github.com/EmuloFra/EmuloFra/blob/main/sasuke.gif" height="80" />
-
+<img src="https://github.com/EmuloFra/EmuloFra/blob/main/jolteon.gif" height="80" />
 <br><br><br>
     
 [![](https://img.shields.io/badge/linkedin-0a66c2?logo=linkedin)](http://linkedin.com/in/emulo-francesco)
