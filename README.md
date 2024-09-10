@@ -18,6 +18,8 @@ Feel free to explore and contribute!
 </pre>
 <br><br>
 <img src="https://github.com/EmuloFra/EmuloFra/blob/main/kyubey.gif" height="70" />
+<img src="https://github.com/EmuloFra/EmuloFra/blob/main/sasuke.gif" height="80" />
+
 <br><br><br>
     
 [![](https://img.shields.io/badge/linkedin-0a66c2?logo=linkedin)](http://linkedin.com/in/emulo-francesco)
@@ -39,7 +41,7 @@ Feel free to explore and contribute!
 **Red Team:**
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=6aa6f8)
+![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=6aa6f8)
 ![TryHackMe](https://img.shields.io/badge/Jr.Pentester-OWASP-informational?style=flat&logo=tryhackme&logoColor=white&color=6aa6f8)
 ![eccouncil](https://img.shields.io/badge/Human-SocialEngineering-informational?style=flat&logo=ecocouncil&logoColor=white&color=6aa6f8)
 ![TryHackMe](https://img.shields.io/badge/WebFundamentals-BurpSuite-informational?style=flat&logo=tryhackme&logoColor=white&color=6aa6f8)
