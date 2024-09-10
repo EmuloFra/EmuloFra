@@ -31,33 +31,35 @@ Feel free to explore and contribute!
 
 **Cybersecurity Specialist:**
 
-![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
-![Bedrock](https://img.shields.io/badge/AI-Bedrock-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
-![SageMaker](https://img.shields.io/badge/ML-SageMaker-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
-![API Gateway](https://img.shields.io/badge/API-Gateway-informational?style=flat&logo=amazon-api-gateway&logoColor=white&color=6aa6f8)
-![DynamoDB](https://img.shields.io/badge/Database-DynamoDB-informational?style=flat&logo=amazon-dynamodb&logoColor=white&color=6aa6f8)
-![Lambda](https://img.shields.io/badge/Compute-AWS_Lambda-informational?style=flat&logo=aws-lambda&logoColor=white&color=6aa6f8)
-![ECS Fargate](https://img.shields.io/badge/Container-ECS_Fargate-informational?style=flat&logo=amazon-ecs&logoColor=white&color=6aa6f8)
-![SQS](https://img.shields.io/badge/Queue-SQS-informational?style=flat&logo=amazon-sqs&logoColor=white&color=6aa6f8)
-![SNS](https://img.shields.io/badge/Pub/Sub-SNS-informational?style=flat&logo=amazon-sns&logoColor=white&color=6aa6f8)
-![S3](https://img.shields.io/badge/Storage-S3-informational?style=flat&logo=amazon-s3&logoColor=white&color=6aa6f8)
-![IAM](https://img.shields.io/badge/Security-IAM-informational?style=flat&logo=amazon-iam&logoColor=white&color=6aa6f8)
-![VPC](https://img.shields.io/badge/Network-VPC-informational?style=flat&logo=amazon-vpc&logoColor=white&color=6aa6f8)
-![CloudWatch](https://img.shields.io/badge/Monitoring-CloudWatch-informational?style=flat&logo=amazon-cloudwatch&logoColor=white&color=6aa6f8)
-![X-Ray](https://img.shields.io/badge/Tracing-X--Ray-informational?style=flat&logo=amazon-xray&logoColor=white&color=6aa6f8)
+![Epicode](https://img.shields.io/badge/OperatingSystems-Windows/Linux-informational?style=flat&logo=epicode&logoColor=white&color=6aa6f8)
+![Epicode](https://img.shields.io/badge/VulnerabilityAssessment-PenetrationTesting-informational?style=flat&logo=epicode&logoColor=white&color=6aa6f8)
+![Epicode](https://img.shields.io/badge/Networking-NetworkConfiguration-informational?style=flat&logo=epicode&logoColor=white&color=6aa6f8)
+
 
 **Red Team:**
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![Rust](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
-![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
-![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
+![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=6aa6f8)
 ![TryHackMe](https://img.shields.io/badge/Jr.Pentester-OWASP-informational?style=flat&logo=tryhackme&logoColor=white&color=6aa6f8)
 ![CloudWatch](https://img.shields.io/badge/WebApp-SQLi-informational?style=flat&logo=amazon-cloudwatch&logoColor=white&color=6aa6f8)
+![eccouncil](https://img.shields.io/badge/Human-SocialEngineering-informational?style=flat&logo=ecocouncil&logoColor=white&color=6aa6f8)
+![TryHackMe](https://img.shields.io/badge/WebFundamentals-BurpSuite-informational?style=flat&logo=tryhackme&logoColor=white&color=6aa6f8)
+![TryHackMe](https://img.shields.io/badge/Jr.Pentester-Metasploit-informational?style=flat&logo=tryhackme&logoColor=white&color=6aa6f8)
+![Coding](https://img.shields.io/badge/Scripting-Powershell&Bash-informational?style=flat&logo=bash&logoColor=white&color=6aa6f8)
+
 
 **Blue Team:**
 
-![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
-![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 ![Cisco](https://img.shields.io/badge/NetworkDefense-Firewall-informational?style=flat&logo=cisco&logoColor=white&color=6aa6f8)
+![Cisco](https://img.shields.io/badge/NetworkDefense-Hardening-informational?style=flat&logo=cisco&logoColor=white&color=6aa6f8)
+![Cisco](https://img.shields.io/badge/NetworkDefense-SecurityControls-informational?style=flat&logo=cisco&logoColor=white&color=6aa6f8)
+![Cisco](https://img.shields.io/badge/NetworkDefense-IncidentResponse-informational?style=flat&logo=cisco&logoColor=white&color=6aa6f8)
+![Cisco](https://img.shields.io/badge/RiskManagement-RiskAssessment-informational?style=flat&logo=cisco&logoColor=white&color=6aa6f8)
+![Epicode](https://img.shields.io/badge/BlueTeam-DigitalForensics-informational?style=flat&logo=epicode&logoColor=white&color=6aa6f8)
+![Epicode](https://img.shields.io/badge/BlueTeam-VulnerabilityManagement-informational?style=flat&logo=epicode&logoColor=white&color=6aa6f8)
+![Epicode](https://img.shields.io/badge/BlueTeam-ThreatHunting-informational?style=flat&logo=epicode&logoColor=white&color=6aa6f8)
+![Epicode](https://img.shields.io/badge/BlueTeam-Wireshark-informational?style=flat&logo=epicode&logoColor=white&color=6aa6f8)
+![Epicode](https://img.shields.io/badge/BlueTeam-Reporting&Analysis-informational?style=flat&logo=epicode&logoColor=white&color=6aa6f8)
+
+
 
