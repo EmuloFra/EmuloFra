@@ -47,6 +47,7 @@ Feel free to explore and contribute!
 ![Coding](https://img.shields.io/badge/Scripting-Powershell&Bash-informational?style=flat&logo=bash&logoColor=white&color=6aa6f8)
 ![TryHackMe](https://img.shields.io/badge/WebFundamentals-SQLi-informational?style=flat&logo=tryhackme&logoColor=white&color=6aa6f8)
 ![TryHackMe](https://img.shields.io/badge/WebFundamentals-XSS-informational?style=flat&logo=tryhackme&logoColor=white&color=6aa6f8)
+![TryHackMe](https://img.shields.io/badge/Jr.Pentester-PrivilegeEscalation-informational?style=flat&logo=tryhackme&logoColor=white&color=6aa6f8)
 
 **Blue Team:**
 
