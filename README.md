@@ -10,9 +10,9 @@
 Here you'll find my projects, hands-on tutorials, and plenty of other useful material.
 
 🌐 Resources and Projects
-In the sidebar on the left, you'll find a link to my [GitHub.io](https://emulofra.github.io/)
+You can click on this link to gain access to my [GitHub.io](https://emulofra.github.io/),
 in case of problems feel free to contact me on the social networks 
-attached in the same section.
+which you find below.
 
 Feel free to explore and contribute!
 </pre>
