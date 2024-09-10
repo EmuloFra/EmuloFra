@@ -20,8 +20,8 @@ Feel free to explore and contribute!
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br><br>
     
-[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/emulo-francesco)
-[![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng)
+[![](https://img.shields.io/badge/linkedin-0a66c2?logo=linkedin)](http://linkedin.com/in/emulo-francesco)
+[![](https://img.shields.io/badge/tryhackme-FF6364?logo=tryhackme)](https://tryhackme.com/p/DiidroBot)
 [![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
 [![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
 </div>
