@@ -35,7 +35,7 @@ Feel free to explore and contribute!
 **Cybersecurity Specialist:**
 
 ![Epicode](https://img.shields.io/badge/OperatingSystems-Windows/Linux-informational?style=flat&logo=kalilinux&logoColor=white&color=6aa6f8)
-![Epicode](https://img.shields.io/badge/VulnerabilityAssessment-PenetrationTesting-informational?style=flat&logo=epicode&logoColor=white&color=6aa6f8)
+![Epicode](https://img.shields.io/badge/VulnerabilityAssessment-PenetrationTesting-informational?style=flat&logo=openaccess&logoColor=white&color=6aa6f8)
 ![Epicode](https://img.shields.io/badge/Networking-NetworkConfiguration-informational?style=flat&logo=enpass&logoColor=white&color=6aa6f8)
 ![Blockchain](https://img.shields.io/badge/Blockchain-Bitcoin-informational?style=flat&logo=bitcoin&logoColor=white&color=6aa6f8)
 
@@ -45,7 +45,7 @@ Feel free to explore and contribute!
 ![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=6aa6f8)
 ![TryHackMe](https://img.shields.io/badge/Jr.Pentester-OWASP-informational?style=flat&logo=tryhackme&logoColor=white&color=6aa6f8)
 ![eccouncil](https://img.shields.io/badge/Human-SocialEngineering-informational?style=flat&logo=ecocouncil&logoColor=white&color=6aa6f8)
-![TryHackMe](https://img.shields.io/badge/WebFundamentals-BurpSuite-informational?style=flat&logo=tryhackme&logoColor=white&color=6aa6f8)
+![TryHackMe](https://img.shields.io/badge/WebFundamentals-BurpSuite-informational?style=flat&logo=burpsuite&logoColor=white&color=6aa6f8)
 ![TryHackMe](https://img.shields.io/badge/Jr.Pentester-Metasploit-informational?style=flat&logo=tryhackme&logoColor=white&color=6aa6f8)
 ![Coding](https://img.shields.io/badge/Scripting-Powershell&Bash-informational?style=flat&logo=gnubash&logoColor=white&color=6aa6f8)
 ![TryHackMe](https://img.shields.io/badge/WebFundamentals-SQLi-informational?style=flat&logo=tryhackme&logoColor=white&color=6aa6f8)
@@ -61,8 +61,8 @@ Feel free to explore and contribute!
 ![Cisco](https://img.shields.io/badge/RiskManagement-RiskAssessment-informational?style=flat&logo=cisco&logoColor=white&color=6aa6f8)
 ![Epicode](https://img.shields.io/badge/BlueTeam-DigitalForensics-informational?style=flat&logo=epicode&logoColor=white&color=6aa6f8)
 ![Epicode](https://img.shields.io/badge/BlueTeam-VulnerabilityManagement-informational?style=flat&logo=epicode&logoColor=white&color=6aa6f8)
-![Epicode](https://img.shields.io/badge/BlueTeam-ThreatHunting-informational?style=flat&logo=epicode&logoColor=white&color=6aa6f8)
-![Epicode](https://img.shields.io/badge/BlueTeam-Wireshark-informational?style=flat&logo=epicode&logoColor=white&color=6aa6f8)
+![Epicode](https://img.shields.io/badge/BlueTeam-ThreatHunting-informational?style=flat&logo=keepassxc&logoColor=white&color=6aa6f8)
+![Epicode](https://img.shields.io/badge/BlueTeam-Wireshark-informational?style=flat&logo=wireshark&logoColor=white&color=6aa6f8)
 ![Epicode](https://img.shields.io/badge/BlueTeam-Reporting&Analysis-informational?style=flat&logo=epicode&logoColor=white&color=6aa6f8)
 
 
