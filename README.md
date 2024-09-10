@@ -52,8 +52,12 @@ Feel free to explore and contribute!
 ![Rust](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
 ![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
+![TryHackMe](https://img.shields.io/badge/Jr.Pentester-OWASP-informational?style=flat&logo=tryhackme&logoColor=white&color=6aa6f8)
+![CloudWatch](https://img.shields.io/badge/WebApp-SQLi-informational?style=flat&logo=amazon-cloudwatch&logoColor=white&color=6aa6f8)
 
 **Blue Team:**
 
 ![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+![Cisco](https://img.shields.io/badge/NetworkDefense-Firewall-informational?style=flat&logo=cisco&logoColor=white&color=6aa6f8)
+
