@@ -59,11 +59,11 @@ Feel free to explore and contribute!
 ![Cisco](https://img.shields.io/badge/NetworkDefense-SecurityControls-informational?style=flat&logo=cisco&logoColor=white&color=6aa6f8)
 ![Cisco](https://img.shields.io/badge/NetworkDefense-IncidentResponse-informational?style=flat&logo=cisco&logoColor=white&color=6aa6f8)
 ![Cisco](https://img.shields.io/badge/RiskManagement-RiskAssessment-informational?style=flat&logo=cisco&logoColor=white&color=6aa6f8)
-![Epicode](https://img.shields.io/badge/BlueTeam-DigitalForensics-informational?style=flat&logo=epicode&logoColor=white&color=6aa6f8)
-![Epicode](https://img.shields.io/badge/BlueTeam-VulnerabilityManagement-informational?style=flat&logo=epicode&logoColor=white&color=6aa6f8)
+![Epicode](https://img.shields.io/badge/BlueTeam-DigitalForensics-informational?style=flat&logo=cisco&logoColor=white&color=6aa6f8)
+![Epicode](https://img.shields.io/badge/BlueTeam-VulnerabilityManagement-informational?style=flat&logo=cisco&logoColor=white&color=6aa6f8)
 ![Epicode](https://img.shields.io/badge/BlueTeam-ThreatHunting-informational?style=flat&logo=keepassxc&logoColor=white&color=6aa6f8)
 ![Epicode](https://img.shields.io/badge/BlueTeam-Wireshark-informational?style=flat&logo=wireshark&logoColor=white&color=6aa6f8)
-![Epicode](https://img.shields.io/badge/BlueTeam-Reporting&Analysis-informational?style=flat&logo=epicode&logoColor=white&color=6aa6f8)
+![Epicode](https://img.shields.io/badge/BlueTeam-Reporting&Analysis-informational?style=flat&logo=bookstack&logoColor=white&color=6aa6f8)
 
 
 
