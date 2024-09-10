@@ -11,7 +11,8 @@ Here you'll find my projects, hands-on tutorials, and plenty of other useful mat
 
 🌐 Resources and Projects
 In the sidebar on the left, you'll find a link to my [GitHub.io](https://emulofra.github.io/)
-in case of problems feel free to contact me on the social networks attached in the same section.
+in case of problems feel free to contact me on the social networks 
+attached in the same section.
 
 Feel free to explore and contribute!
 </pre>
