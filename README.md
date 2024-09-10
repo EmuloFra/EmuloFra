@@ -23,7 +23,7 @@ Feel free to explore and contribute!
 [![](https://img.shields.io/badge/linkedin-0a66c2?logo=linkedin)](http://linkedin.com/in/emulo-francesco)
 [![](https://img.shields.io/badge/tryhackme-FF6364?logo=tryhackme)](https://tryhackme.com/p/DiidroBot)
 [![](https://img.shields.io/badge/tutorials-ff66ab?logo=github)](https://emulofra.github.io/)
-[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
+[![](https://img.shields.io/badge/hackthebox-F5F5DC?logo=hackthebox)]()
 </div>
 
 
