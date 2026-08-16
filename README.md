@@ -2,7 +2,8 @@
 ## Hi there 👋
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B2420,50:6E5636,100:A7A459&height=180&section=header&text=Diidro%20%E2%9C%A8&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cybersecurity%20Specialist%20and%20IT%20Systems%20Administrator&descSize=15&descAlignY=55" width="100%"/><img src="https://github.com/EmuloFra/EmuloFra/blob/main/elusivesamurai.jpg" width="180" align="right" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B2420,50:6E5636,100:A7A459&height=180&section=header&text=Diidro%20%E2%9C%A8&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=32&desc=System%20Engineer%20and%20Cybersecurity%20Specialist&descSize=15&descAlignY=55" width="100%"/>
+<img src="https://github.com/EmuloFra/EmuloFra/blob/main/elusivesamurai.jpg" width="180" align="right" />
 
 - Name: **Francesco** (Diidro)
 - From: **Naples/Salerno, Italy** 🇮🇹
