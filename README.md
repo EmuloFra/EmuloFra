@@ -1,5 +1,5 @@
 
-## Hi there 👋
+## Chill with Me 👋
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B2420,50:6E5636,100:A7A459&height=180&section=header&text=Diidro%20%E2%9C%A8&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=32&desc=System%20Engineer%20and%20Cybersecurity%20Specialist&descSize=15&descAlignY=55" width="100%"/>
