@@ -1,3 +1,36 @@
+
+## Hi there 👋
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B2420,50:6E5636,100:A7A459&height=180&section=header&text=Diidro%20%E2%9C%A8&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cybersecurity%20Specialist%20%26%20IT%20Systems%20Administrator&descSize=15&descAlignY=55" width="100%"/>
+
+<img src="https://github.com/EmuloFra/EmuloFra/blob/main/elusivesamurai.jpg" width="180" align="right" />
+
+- Name: **Francesco** (Diidro)
+- From: **Naples/Salerno, Italy** 🇮🇹
+- Day job: **IT Systems Administrator** @ a port authority
+- Also: **freelance cybersecurity** for NIS2-obligated SMEs
+- Off the clock: homelab tinkering, TCG collecting, retro handheld flipping
+
+<br clear="right"/>
+<br>
+
+[![](https://img.shields.io/badge/LINKEDIN-4b0f08?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/emulo-francesco)
+[![](https://img.shields.io/badge/TRYHACKME-4b0f08?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/DiidroBot)
+[![](https://img.shields.io/badge/TUTORIALS-4b0f08?style=for-the-badge&logo=github&logoColor=white)](https://emulofra.github.io/)
+[![](https://img.shields.io/badge/HACKTHEBOX-4b0f08?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.hackthebox.com/)
+
+<br><br>
+
+<img src="https://github.com/EmuloFra/EmuloFra/blob/main/pika.gif" height="80" />
+<img src="https://github.com/EmuloFra/EmuloFra/blob/main/kyubey.gif" height="70" />
+<img src="https://github.com/EmuloFra/EmuloFra/blob/main/sasuke.gif" height="80" />
+<img src="https://github.com/EmuloFra/EmuloFra/blob/main/jolteon.gif" height="80" />
+</div>
+
+
+---
+
 ## Hi there 👋
 
 <div align="center">
