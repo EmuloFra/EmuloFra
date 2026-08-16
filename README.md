@@ -6,10 +6,10 @@
 <img src="https://github.com/EmuloFra/EmuloFra/blob/main/hehe.png" width="180" align="right" />
 
 - Name: **Francesco** (Diidro)
-- From: **Naples/Salerno, Italy** 🇮🇹
-- Day job: **IT Systems Administrator** @ a port authority
-- Also: **freelance cybersecurity** for NIS2-obligated SMEs
-- Off the clock: homelab tinkering, TCG collecting, retro handheld flipping
+- From: **Naples/Caserta, Italy** 🇮🇹
+- Day job: **Systems Engineer** at port authority
+- Also: **freelance cybersecurity & BlockChain** for NIS2-obligated SMEs and Decentralization
+- Off the clock: homelab tinkering & DevOps Engineer
 
 <br clear="right"/>
 <br>
