@@ -37,7 +37,7 @@
 
 ![Infrastruttura](https://img.shields.io/badge/OperatingSystems-Windows/Linux-informational?style=flat&logo=kalilinux&logoColor=white&color=6aa6f8)
 ![Infrastruttura](https://img.shields.io/badge/Vuln.Assessment-Nessus/OpenVAS-informational?style=flat&logo=openaccess&logoColor=white&color=6aa6f8)
-![Infrastruttura](https://img.shields.io/badge/Networking-NetworkConfiguration-informational?style=flat&logo=enpass&logoColor=white&color=6aa6f8)
+![Infrastruttura](https://img.shields.io/badge/Networking-Cisco/HPE/Aruba-informational?style=flat&logo=enpass&logoColor=white&color=6aa6f8)
 ![Blockchain](https://img.shields.io/badge/Blockchain-Bitcoin-informational?style=flat&logo=bitcoin&logoColor=white&color=6aa6f8)
 
 **Resilienza:**
