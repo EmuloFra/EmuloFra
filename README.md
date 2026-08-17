@@ -40,9 +40,9 @@
 ![Infrastruttura](https://img.shields.io/badge/Networking-NetworkConfiguration-informational?style=flat&logo=enpass&logoColor=white&color=6aa6f8)
 ![Blockchain](https://img.shields.io/badge/Blockchain-Bitcoin-informational?style=flat&logo=bitcoin&logoColor=white&color=6aa6f8)
 
-**Red Team:**
+**Resilienza:**
 
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=fortinet&logoColor=white&color=6aa6f8)
 ![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=6aa6f8)
 ![TryHackMe](https://img.shields.io/badge/Jr.Pentester-OWASP-informational?style=flat&logo=tryhackme&logoColor=white&color=6aa6f8)
 ![eccouncil](https://img.shields.io/badge/Human-SocialEngineering-informational?style=flat&logo=ecocouncil&logoColor=white&color=6aa6f8)
@@ -53,7 +53,7 @@
 ![TryHackMe](https://img.shields.io/badge/WebFundamentals-XSS-informational?style=flat&logo=tryhackme&logoColor=white&color=6aa6f8)
 ![TryHackMe](https://img.shields.io/badge/Jr.Pentester-PrivilegeEscalation-informational?style=flat&logo=tryhackme&logoColor=white&color=6aa6f8)
 
-**Blue Team:**
+**Sicurezza:**
 
 ![Cisco](https://img.shields.io/badge/NetworkDefense-Firewall-informational?style=flat&logo=cisco&logoColor=white&color=6aa6f8)
 ![Cisco](https://img.shields.io/badge/NetworkDefense-Hardening-informational?style=flat&logo=cisco&logoColor=white&color=6aa6f8)
