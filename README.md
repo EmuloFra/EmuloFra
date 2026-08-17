@@ -51,22 +51,7 @@
 ![SIEM](https://img.shields.io/badge/SIEM-Splunk-informational?style=flat&logo=splunk&logoColor=white&color=6aa6f8)
 ![PenetrationTest](https://img.shields.io/badge/PenetrationTest-Surface:L2/L3-informational?style=flat&logo=kalilinux&logoColor=white&color=6aa6f8)
 ![hardening](https://img.shields.io/badge/VulnerabilityManagement-nmap+hardening-informational?style=flat&logo=openaccess&logoColor=white&color=6aa6f8)
-
 ![Monitoraggio](https://img.shields.io/badge/Monitoring-Prometheus-informational?style=flat&logo=prometheus&logoColor=white&color=6aa6f8)
 ![Monitoraggio](https://img.shields.io/badge/Monitoring-Grafana-informational?style=flat&logo=grafana&logoColor=white&color=6aa6f8)
-
-
-![Epicode](https://img.shields.io/badge/BlueTeam-ThreatHunting-informational?style=flat&logo=keepassxc&logoColor=white&color=6aa6f8)
-![Epicode](https://img.shields.io/badge/BlueTeam-Wireshark-informational?style=flat&logo=wireshark&logoColor=white&color=6aa6f8)
-![Epicode](https://img.shields.io/badge/BlueTeam-Reporting&Analysis-informational?style=flat&logo=bookstack&logoColor=white&color=6aa6f8)
-![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=6aa6f8)
-![TryHackMe](https://img.shields.io/badge/Jr.Pentester-OWASP-informational?style=flat&logo=tryhackme&logoColor=white&color=6aa6f8)
-![eccouncil](https://img.shields.io/badge/Human-SocialEngineering-informational?style=flat&logo=ecocouncil&logoColor=white&color=6aa6f8)
-![TryHackMe](https://img.shields.io/badge/WebFundamentals-BurpSuite-informational?style=flat&logo=burpsuite&logoColor=white&color=6aa6f8)
-![TryHackMe](https://img.shields.io/badge/Jr.Pentester-Metasploit-informational?style=flat&logo=tryhackme&logoColor=white&color=6aa6f8)
-![Coding](https://img.shields.io/badge/Scripting-Powershell&Bash-informational?style=flat&logo=gnubash&logoColor=white&color=6aa6f8)
-![TryHackMe](https://img.shields.io/badge/WebFundamentals-SQLi-informational?style=flat&logo=tryhackme&logoColor=white&color=6aa6f8)
-![TryHackMe](https://img.shields.io/badge/WebFundamentals-XSS-informational?style=flat&logo=tryhackme&logoColor=white&color=6aa6f8)
-![TryHackMe](https://img.shields.io/badge/Jr.Pentester-PrivilegeEscalation-informational?style=flat&logo=tryhackme&logoColor=white&color=6aa6f8)
 
 
