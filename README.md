@@ -42,7 +42,7 @@
 
 **Resilienza:**
 
-![Backup](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=veeam&logoColor=white&color=6aa6f8)
+![Backup](https://img.shields.io/badge/Backup-Veeam-informational?style=flat&logo=veeam&logoColor=white&color=6aa6f8)
 ![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=6aa6f8)
 ![TryHackMe](https://img.shields.io/badge/Jr.Pentester-OWASP-informational?style=flat&logo=tryhackme&logoColor=white&color=6aa6f8)
 ![eccouncil](https://img.shields.io/badge/Human-SocialEngineering-informational?style=flat&logo=ecocouncil&logoColor=white&color=6aa6f8)
@@ -55,8 +55,8 @@
 
 **Sicurezza:**
 
-![Firewall](https://img.shields.io/badge/NetworkDefense-Firewall-informational?style=flat&logo=fortinet&logoColor=white&color=6aa6f8)
-![Cisco](https://img.shields.io/badge/NetworkDefense-Hardening-informational?style=flat&logo=cisco&logoColor=white&color=6aa6f8)
+![Firewall](https://img.shields.io/badge/Firewall-Fortinet-informational?style=flat&logo=fortinet&logoColor=white&color=6aa6f8)
+![SIEM](https://img.shields.io/badge/SIEM-Splunk-informational?style=flat&logo=splunk&logoColor=white&color=6aa6f8)
 ![Cisco](https://img.shields.io/badge/NetworkDefense-SecurityControls-informational?style=flat&logo=cisco&logoColor=white&color=6aa6f8)
 ![Cisco](https://img.shields.io/badge/NetworkDefense-IncidentResponse-informational?style=flat&logo=cisco&logoColor=white&color=6aa6f8)
 ![Cisco](https://img.shields.io/badge/RiskManagement-RiskAssessment-informational?style=flat&logo=cisco&logoColor=white&color=6aa6f8)
