@@ -52,8 +52,10 @@
 ![PenetrationTest](https://img.shields.io/badge/PenetrationTest-Surface:L2/L3-informational?style=flat&logo=kalilinux&logoColor=white&color=6aa6f8)
 ![hardening](https://img.shields.io/badge/VulnerabilityManagement-nmap+hardening-informational?style=flat&logo=openaccess&logoColor=white&color=6aa6f8)
 
-![Epicode](https://img.shields.io/badge/BlueTeam-DigitalForensics-informational?style=flat&logo=cisco&logoColor=white&color=6aa6f8)
-![Epicode](https://img.shields.io/badge/BlueTeam-VulnerabilityManagement-informational?style=flat&logo=cisco&logoColor=white&color=6aa6f8)
+![Monitoraggio](https://img.shields.io/badge/Monitoring-Prometheus-informational?style=flat&logo=prometheus&logoColor=white&color=6aa6f8)
+![Monitoraggio](https://img.shields.io/badge/Monitoring-Grafana-informational?style=flat&logo=grafana&logoColor=white&color=6aa6f8)
+
+
 ![Epicode](https://img.shields.io/badge/BlueTeam-ThreatHunting-informational?style=flat&logo=keepassxc&logoColor=white&color=6aa6f8)
 ![Epicode](https://img.shields.io/badge/BlueTeam-Wireshark-informational?style=flat&logo=wireshark&logoColor=white&color=6aa6f8)
 ![Epicode](https://img.shields.io/badge/BlueTeam-Reporting&Analysis-informational?style=flat&logo=bookstack&logoColor=white&color=6aa6f8)
