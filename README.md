@@ -50,9 +50,7 @@
 ![Firewall](https://img.shields.io/badge/Firewall-Fortinet-informational?style=flat&logo=fortinet&logoColor=white&color=6aa6f8)
 ![SIEM](https://img.shields.io/badge/SIEM-Splunk-informational?style=flat&logo=splunk&logoColor=white&color=6aa6f8)
 ![PenetrationTest](https://img.shields.io/badge/PenetrationTest-Surface:L2/L3-informational?style=flat&logo=kalilinux&logoColor=white&color=6aa6f8)
-
-![hardening](https://img.shields.io/badge/VulnerabilityManagement-nmap+hardening-informational?style=flat&logo=security&logoColor=white&color=6aa6f8)
-![hardening](https://img.shields.io/badge/VulnerabilityManagement-nmap%20%2B%20hardening-informational?style=flat&color=6aa6f8)
+![hardening](https://img.shields.io/badge/VulnerabilityManagement-nmap+hardening-informational?style=flat&logo=openaccess&logoColor=white&color=6aa6f8)
 
 ![Epicode](https://img.shields.io/badge/BlueTeam-DigitalForensics-informational?style=flat&logo=cisco&logoColor=white&color=6aa6f8)
 ![Epicode](https://img.shields.io/badge/BlueTeam-VulnerabilityManagement-informational?style=flat&logo=cisco&logoColor=white&color=6aa6f8)
