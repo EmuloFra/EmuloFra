@@ -35,7 +35,7 @@
 
 **Infrastruttura:**
 
-![Infrastruttura](https://img.shields.io/badge/OperatingSystems-Windows/RedHat-informational?style=flat&logo=kalilinux&logoColor=white&color=6aa6f8)
+![Infrastruttura](https://img.shields.io/badge/OperatingSystems-Windows/RedHat-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![Infrastruttura](https://img.shields.io/badge/Hypervisor-VMWare/Proxmox/SUSE-informational?style=flat&logo=proxmox&logoColor=white&color=6aa6f8)
 ![Infrastruttura](https://img.shields.io/badge/Vuln.Assessment-Nessus/OpenVAS-informational?style=flat&logo=openaccess&logoColor=white&color=6aa6f8)
 ![Infrastruttura](https://img.shields.io/badge/Networking-Cisco/HPE/Aruba-informational?style=flat&logo=enpass&logoColor=white&color=6aa6f8)
